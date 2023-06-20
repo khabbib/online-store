@@ -1,4 +1,4 @@
 
 
 <h1>Online Store </h1>
-Project focused on back-end (database). Postgresql
+The project focused on back-end (Postgresql Database).
